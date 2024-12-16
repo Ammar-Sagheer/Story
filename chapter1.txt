@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello, this is the chapter 1 complete. and i am ammar and this is space knwoledge
+=======
+Hello, this is the chapter 1 complete. and i am ammar
+>>>>>>> e29b7659a74c43436d3bc2e08a415029e93f3722
